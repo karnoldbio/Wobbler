@@ -1,0 +1,6 @@
+C:\Users\Kevin Arnold\source\repos\Project2KevinArnoldWobble\Project2KevinArnoldWobble\bin\Release\netcoreapp3.1\publish\Project2KevinArnoldWobble.exe
+C:\Users\Kevin Arnold\source\repos\Project2KevinArnoldWobble\Project2KevinArnoldWobble\bin\Release\netcoreapp3.1\publish\Project2KevinArnoldWobble.dll
+C:\Users\Kevin Arnold\source\repos\Project2KevinArnoldWobble\Project2KevinArnoldWobble\bin\Release\netcoreapp3.1\publish\Project2KevinArnoldWobble.deps.json
+C:\Users\Kevin Arnold\source\repos\Project2KevinArnoldWobble\Project2KevinArnoldWobble\bin\Release\netcoreapp3.1\publish\Project2KevinArnoldWobble.runtimeconfig.json
+C:\Users\Kevin Arnold\source\repos\Project2KevinArnoldWobble\Project2KevinArnoldWobble\bin\Release\netcoreapp3.1\publish\Project2KevinArnoldWobble.pdb
+C:\Users\Kevin Arnold\source\repos\Project2KevinArnoldWobble\Project2KevinArnoldWobble\bin\Release\netcoreapp3.1\publish\Newtonsoft.Json.dll

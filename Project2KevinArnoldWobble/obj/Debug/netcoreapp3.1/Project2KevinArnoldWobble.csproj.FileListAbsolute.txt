@@ -1,0 +1,15 @@
+C:\Users\Kevin Arnold\source\repos\Project2KevinArnoldWobble\Project2KevinArnoldWobble\bin\Debug\netcoreapp3.1\Project2KevinArnoldWobble.exe
+C:\Users\Kevin Arnold\source\repos\Project2KevinArnoldWobble\Project2KevinArnoldWobble\bin\Debug\netcoreapp3.1\Project2KevinArnoldWobble.deps.json
+C:\Users\Kevin Arnold\source\repos\Project2KevinArnoldWobble\Project2KevinArnoldWobble\bin\Debug\netcoreapp3.1\Project2KevinArnoldWobble.runtimeconfig.json
+C:\Users\Kevin Arnold\source\repos\Project2KevinArnoldWobble\Project2KevinArnoldWobble\bin\Debug\netcoreapp3.1\Project2KevinArnoldWobble.runtimeconfig.dev.json
+C:\Users\Kevin Arnold\source\repos\Project2KevinArnoldWobble\Project2KevinArnoldWobble\bin\Debug\netcoreapp3.1\Project2KevinArnoldWobble.dll
+C:\Users\Kevin Arnold\source\repos\Project2KevinArnoldWobble\Project2KevinArnoldWobble\bin\Debug\netcoreapp3.1\Project2KevinArnoldWobble.pdb
+C:\Users\Kevin Arnold\source\repos\Project2KevinArnoldWobble\Project2KevinArnoldWobble\obj\Debug\netcoreapp3.1\Project2KevinArnoldWobble.csprojAssemblyReference.cache
+C:\Users\Kevin Arnold\source\repos\Project2KevinArnoldWobble\Project2KevinArnoldWobble\obj\Debug\netcoreapp3.1\Project2KevinArnoldWobble.AssemblyInfoInputs.cache
+C:\Users\Kevin Arnold\source\repos\Project2KevinArnoldWobble\Project2KevinArnoldWobble\obj\Debug\netcoreapp3.1\Project2KevinArnoldWobble.AssemblyInfo.cs
+C:\Users\Kevin Arnold\source\repos\Project2KevinArnoldWobble\Project2KevinArnoldWobble\obj\Debug\netcoreapp3.1\Project2KevinArnoldWobble.csproj.CoreCompileInputs.cache
+C:\Users\Kevin Arnold\source\repos\Project2KevinArnoldWobble\Project2KevinArnoldWobble\obj\Debug\netcoreapp3.1\Project2KevinArnoldWobble.dll
+C:\Users\Kevin Arnold\source\repos\Project2KevinArnoldWobble\Project2KevinArnoldWobble\obj\Debug\netcoreapp3.1\Project2KevinArnoldWobble.pdb
+C:\Users\Kevin Arnold\source\repos\Project2KevinArnoldWobble\Project2KevinArnoldWobble\obj\Debug\netcoreapp3.1\Project2KevinArnoldWobble.genruntimeconfig.cache
+C:\Users\Kevin Arnold\source\repos\Project2KevinArnoldWobble\Project2KevinArnoldWobble\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Kevin Arnold\source\repos\Project2KevinArnoldWobble\Project2KevinArnoldWobble\obj\Debug\netcoreapp3.1\Project2KevinArnoldWobble.csproj.CopyComplete

@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Project2KevinArnoldWobbleTests": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
